@@ -4,5 +4,5 @@ Bu proje, Kaggle Titanic veri setini kullanarak yolcuların hayatta kalma olası
 
 ## Faydalandığım kaynaklar
 
-Veri seti: https://www.kaggle.com/competitions/titanic/data
+Veri seti: https://www.kaggle.com/competitions/titanic/data  
 Bu projeyi hazırlamak için yapay zeka araçlarından ve diğer kaynaklardan yardım aldım. 
