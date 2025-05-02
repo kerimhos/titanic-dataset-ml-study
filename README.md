@@ -1,6 +1,6 @@
 # Titanic Hayatta Kalma Tahmini
 
-Bu proje, Kaggle Titanic veri setini kullanarak yolcuların hayatta kalma olasılıklarını tahmin eden bir makine öğrenimi modeli tasarlayarak bu alanla ilgli becerilerimi geliştirmek. 
+Bu proje, Kaggle Titanic veri setini kullanarak yolcuların hayatta kalma olasılıklarını tahmin eden bir makine öğrenimi modeli tasarlayarak bu alanla ilgli becerilerimi geliştirmek amacı ile yapıldı. 
 
 ## Faydalandığım kaynaklar
 
